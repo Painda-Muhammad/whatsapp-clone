@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1059316989966",
+    "project_id": "flutter-medical-app-3c705",
+    "storage_bucket": "flutter-medical-app-3c705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059316989966:android:49b38c974b4ac12df3fc5f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059316989966-jv5d5dkkklg8lfkej9648opg3dm7empg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "bd42fff732acd9a2d2c4da216779f1f3f6922364"
+          }
+        },
+        {
+          "client_id": "1059316989966-d5hhocemmdhl95rqlb801m2rjf6a2a3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzKJylFeePzkQUexRrdoJP5VQhtIatDjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059316989966-d5hhocemmdhl95rqlb801m2rjf6a2a3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059316989966-3b0eo1faft8v3kugoonmf5neht1dg1u9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gourpeChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059316989966:android:4dda3f9584616d69f3fc5f",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059316989966-d5hhocemmdhl95rqlb801m2rjf6a2a3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzKJylFeePzkQUexRrdoJP5VQhtIatDjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059316989966-d5hhocemmdhl95rqlb801m2rjf6a2a3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059316989966-3b0eo1faft8v3kugoonmf5neht1dg1u9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gourpeChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
